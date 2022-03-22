@@ -1,7 +1,7 @@
 # SDVN simulation platform
 Installation instructions：
 1. Start it with the python file test**. Attention: you need to modify the data name to your own data file and related parameters.
-2. Related test files: testTSD, testCT, testDijkstra, testIM-DOS, testLEAF.
+2. Related test files: testTSD, testCT, testDijkstra, testIM-DOS, testLEAF,testGAME,testSWORDFISH.
 3. The file "node" is used to process vehicle information while the vehicle is driving on the road.
 4. File "Packet" is used to process data packet information.
 5. File "SDVN_main" and "SDVN_Controller" are used to formulate the controller in SDVN.
